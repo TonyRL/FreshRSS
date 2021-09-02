@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
-<g transform="translate(-40.0002,-746)" fill="#bebebe">
-<rect style="color:#bebebe;" height="2.0002" width="9.9996" y="749" x="43"/>
-<rect style="color:#bebebe;" height="2.0002" width="9.9996" y="753" x="43"/>
-<rect style="color:#bebebe;" height="2.0002" width="9.9996" y="757" x="43"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g fill="#bebebe" transform="translate(-40.0002,-746)"><rect style="color:#bebebe" width="10" height="2" x="43" y="749"/><rect style="color:#bebebe" width="10" height="2" x="43" y="753"/><rect style="color:#bebebe" width="10" height="2" x="43" y="757"/></g></svg>
